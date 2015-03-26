@@ -56,8 +56,8 @@ def add_metabolite(model, id, formula, name, compartment='C'):
         model.add_metabolites([met])
 
 def knockout_reactions(model, ko_reactions):
-    for r in ko_reactions.split(','):
-        model.remove_reactions(r)
+    ko_reactions = ko_reactions.split(',')
+    model.remove_reactions(ko_reactions)
 
 def add_reaction(model, id, name, sparse,
                  lower_bound=0, upper_bound=1000):

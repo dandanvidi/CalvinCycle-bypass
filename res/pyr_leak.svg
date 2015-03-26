@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="755.05347"
+   height="476.561"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 1">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70793544"
+     inkscape:cx="76.446006"
+     inkscape:cy="244.06493"
+     inkscape:document-units="px"
+     inkscape:current-layer="g7204"
+     showgrid="false"
+     inkscape:window-width="1871"
+     inkscape:window-height="1056"
+     inkscape:window-x="49"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs4">
+    <marker
+       style="overflow:visible"
+       id="StopL"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="StopL">
+      <path
+         transform="scale(0.8,0.8)"
+         style="fill:none;stroke:#000000;stroke-width:1pt"
+         d="M 0,5.65 0,-5.65"
+         id="path4008"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3848"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3845"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="StopLG"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="StopLG">
+      <path
+         transform="scale(0.8,0.8)"
+         style="fill:none;stroke:#ff0000;stroke-width:1pt"
+         d="M 0,5.65 0,-5.65"
+         id="path4848"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="StopLk"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="StopLk">
+      <path
+         transform="scale(0.8,0.8)"
+         style="fill:none;stroke:#ff0000;stroke-width:1pt"
+         d="M 0,5.65 0,-5.65"
+         id="path4851"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1"
+     transform="translate(-632.94043,473.97186)">
+    <g
+       id="g7148">
+      <g
+         id="g7176">
+        <g
+           id="g7204"
+           inkscape:export-filename="/home/dan/git/CalvinCycle-bypass/res/DXPS pyruvate leak.png"
+           inkscape:export-xdpi="450"
+           inkscape:export-ydpi="450">
+          <text
+             sodipodi:linespacing="125%"
+             id="text5461"
+             y="-164.69283"
+             x="683.41705"
+             style="font-size:20px;font-style:italic;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Italic"
+             xml:space="preserve"><tspan
+               y="-164.69283"
+               x="683.41705"
+               id="tspan5463"
+               sodipodi:role="line">3-Phospho-D-glycerate</tspan></text>
+          <path
+             inkscape:connector-curvature="0"
+             id="path5465"
+             d="m 797.44535,-151.09935 0,121.20856"
+             style="fill:none;stroke:#ff0000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:url(#StopLG);marker-end:url(#StopLk)" />
+          <text
+             xml:space="preserve"
+             style="font-size:20px;font-style:italic;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Italic"
+             x="753.05573"
+             y="-1.5710163"
+             id="text5467"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan5469"
+               x="753.05573"
+               y="-1.5710163">pyruvate</tspan></text>
+          <path
+             inkscape:connector-curvature="0"
+             id="path5473"
+             d="m 797.44535,-298.94884 0,-78.94382"
+             style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend)" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text5855"
+             y="-387.60324"
+             x="652.9483"
+             style="font-size:20px;font-style:italic;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Italic"
+             xml:space="preserve"><tspan
+               y="-387.60324"
+               x="652.9483"
+               id="tspan5857"
+               sodipodi:role="line">Glyceraldehyde 3-phosphate</tspan></text>
+          <text
+             sodipodi:linespacing="125%"
+             id="text5859"
+             y="-247.38652"
+             x="1064.2732"
+             style="font-size:20px;font-style:italic;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Italic"
+             xml:space="preserve"><tspan
+               y="-247.38652"
+               x="1064.2732"
+               id="tspan5861"
+               sodipodi:role="line">1-deoxy-D-xylulose 5-phosphate</tspan></text>
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path5865"
+             d="M 1048.7156,-255.03285 C 925.48937,-260.23481 916.74577,-98.6312 858.26527,-17.43009"
+             style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Mstart)" />
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path5867"
+             d="m 893.61158,-376.6673 c 46.7138,93.71388 77.1331,124.33581 135.91222,122.22423"
+             style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+          <text
+             xml:space="preserve"
+             style="font-size:20px;font-style:italic;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Italic"
+             x="652.9483"
+             y="-273.60324"
+             id="text6316"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan6318"
+               x="652.9483"
+               y="-273.60324">Glyceraldehyde 3-phosphate</tspan></text>
+          <path
+             style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend)"
+             d="m 797.44535,-186.94884 0,-78.94382"
+             id="path6320"
+             inkscape:connector-curvature="0" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text6087"
+             y="-449.65936"
+             x="631.56543"
+             style="font-size:32px;font-style:italic;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold Italic"
+             xml:space="preserve"><tspan
+               y="-449.65936"
+               x="631.56543"
+               id="tspan6089"
+               sodipodi:role="line">1-deoxyxylulose-5-phosphate synthase</tspan></text>
+          <text
+             sodipodi:linespacing="125%"
+             id="text6108"
+             y="-239.65678"
+             x="942.78137"
+             style="font-size:20px;font-style:italic;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Italic"
+             xml:space="preserve"><tspan
+               y="-239.65678"
+               x="942.78137"
+               id="tspan6110"
+               sodipodi:role="line">dxs</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:20px;font-style:italic;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Italic"
+             x="751.14362"
+             y="-331.97351"
+             id="text6112"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan6114"
+               x="751.14362"
+               y="-331.97351">gap</tspan></text>
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path6116"
+             d="m 1142.4559,-236.96328 c -25.5739,73.15864 -146.98294,169.988109 -263.06822,82.37468"
+             style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0;marker-end:url(#Arrow1Mend)" />
+          <text
+             xml:space="preserve"
+             style="font-size:20px;font-style:italic;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Italic"
+             x="1055.4087"
+             y="-120.11913"
+             id="text6308"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan6310"
+               x="1055.4087"
+               y="-120.11913">rbc</tspan></text>
+          <text
+             sodipodi:linespacing="125%"
+             id="text6324"
+             y="-221.97351"
+             x="751.14362"
+             style="font-size:20px;font-style:italic;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Italic"
+             xml:space="preserve"><tspan
+               y="-221.97351"
+               x="751.14362"
+               id="tspan6326"
+               sodipodi:role="line">pgk</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
