@@ -133,7 +133,7 @@ def knockin_reactions(model, ki_reactions, lower_bound=0, upper_bound=1000):
             
 def add_metabolite_exchange(model, metabolite, lower_bound, upper_bound=0):
     try:
-        met = model.metabolites[model.metabolites.index(metabolite + '_c')]
+        met = model.metabolites.get_by_id(metabolite + '_c')
     except AttributeError:
         raise KeyError('Model does not have a metabolite with ID: ' + metabolite)
     

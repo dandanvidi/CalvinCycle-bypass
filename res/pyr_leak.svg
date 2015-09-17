@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="pyr_leak.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -22,15 +22,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70793544"
-     inkscape:cx="76.446006"
-     inkscape:cy="244.06493"
+     inkscape:zoom="1.0011719"
+     inkscape:cx="271.46018"
+     inkscape:cy="201.95837"
      inkscape:document-units="px"
      inkscape:current-layer="g7204"
      showgrid="false"
      inkscape:window-width="1871"
      inkscape:window-height="1056"
-     inkscape:window-x="49"
+     inkscape:window-x="1969"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      fit-margin-top="0"
@@ -251,23 +251,6 @@
                id="tspan6114"
                x="751.14362"
                y="-331.97351">gap</tspan></text>
-          <path
-             sodipodi:nodetypes="cc"
-             inkscape:connector-curvature="0"
-             id="path6116"
-             d="m 1142.4559,-236.96328 c -25.5739,73.15864 -146.98294,169.988109 -263.06822,82.37468"
-             style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0;marker-end:url(#Arrow1Mend)" />
-          <text
-             xml:space="preserve"
-             style="font-size:20px;font-style:italic;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Italic"
-             x="1055.4087"
-             y="-120.11913"
-             id="text6308"
-             sodipodi:linespacing="125%"><tspan
-               sodipodi:role="line"
-               id="tspan6310"
-               x="1055.4087"
-               y="-120.11913">rbc</tspan></text>
           <text
              sodipodi:linespacing="125%"
              id="text6324"
@@ -279,6 +262,24 @@
                x="751.14362"
                id="tspan6326"
                sodipodi:role="line">pgk</tspan></text>
+          <path
+             style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 536.37142,247.82906 c -70.91689,96.88645 -70.91689,96.88645 -70.91689,96.88645"
+             id="path7251"
+             inkscape:connector-curvature="0"
+             transform="translate(632.94043,-473.97186)" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 587.31173,246.83023 0,102.87943"
+             id="path7253"
+             inkscape:connector-curvature="0"
+             transform="translate(632.94043,-473.97186)" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 649.23915,250.82554 62.92626,92.89115"
+             id="path7255"
+             inkscape:connector-curvature="0"
+             transform="translate(632.94043,-473.97186)" />
         </g>
       </g>
     </g>

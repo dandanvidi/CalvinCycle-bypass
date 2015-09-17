@@ -68,7 +68,7 @@ def display_metabolite_reactions(model, m, reaction2flux_dict, html):
     
     # fluxes
     rowdicts = []
-    for r in m.get_reaction():
+    for r in m.reactions:
         if abs(reaction2flux_dict[r]) < 1e-10:
             continue
             
@@ -106,7 +106,7 @@ def display_reaction(r, m_bold=None, direction=1):
     """
     s_left = []
     s_right = []
-    for m in r.get_reactants() + r.get_products():
+    for m in r.reactants + r.products:
         if m == m_bold:
             s_met = "<a href='#%s'><b>%s</b></a>" % (m.id, m.id)
         else:
